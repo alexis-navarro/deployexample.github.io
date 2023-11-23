@@ -1,0 +1,22 @@
+/* Autor: Eli ALexis Navarro Gasca
+    Fecha: 12/10/2023
+*/
+html{
+ background-image: url("SL3.jpg");
+ background-size: cover;
+}
+
+label  {
+    background-color: aliceblue;
+}
+
+b {
+    font-size: 20px;
+}
+
+button {
+    background-color: blue;
+    background-attachment: fixed;
+    font-size: 50px;
+    border-radius: 10%;
+}
